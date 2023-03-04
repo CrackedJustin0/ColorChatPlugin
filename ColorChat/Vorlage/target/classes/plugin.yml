@@ -1,0 +1,15 @@
+name: ColorChat
+version: 1.1
+main: de.justin.craftingempire.Main
+api-version: 1.19
+commands:
+permissions:
+  colorchat.color:
+    default: op
+    description: is so
+  colorchat.format:
+    default: op
+    description: is so
+  colorchat.sign:
+    default: op
+    description: is so
