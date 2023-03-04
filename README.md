@@ -1,1 +1,1 @@
-This Plugin just allows you to use Colorcodes in CHat and on Signs
+This Plugin just allows you to use Colorcodes in Chat and on Signs
